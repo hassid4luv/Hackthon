@@ -1,1 +1,8 @@
 node_modules/
+.parcel-cache/
+.pnp/
+.cache/
+build/
+dist/
+coverage/
+
